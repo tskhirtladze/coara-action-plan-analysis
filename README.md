@@ -1,4 +1,4 @@
-# PDF Open Science Term Analysis (CoARA)
+# Open Science Term Analysis (CoARA)
 
 This repository houses data used in the study 'Advancing Open Science Through Research Assessment Reform? Content Analysis of CoARA Action Plans.
 
