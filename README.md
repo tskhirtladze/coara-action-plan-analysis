@@ -4,11 +4,12 @@ This repository houses data used in the study 'Advancing Open Science Through Re
 
 ## Primary Content: Excel Datasets
 
-It consists of three Excel data files in the 'Data_CoARA_Action_Plan_OS_Study' folder:
+It consists of four Excel data files in the 'Data_CoARA_Action_Plan_OS_Study' folder:
 
-- Term_Binary_individual_terms.xlsx – Contains the binary term-level data indicating the presence/absence of individual open science terms.
-- Term_Binary_with_individual_terms+Clusters.xlsx – Contains the binary term-level data for individual open science terms and thematic clusters.
-- Term_Frequencies_Normalized_&_Raw.xlsx – Contains the raw and normalized term frequency data for individual open science terms.
+- **Term_Binary_individual_terms.xlsx** – Contains the binary term-level data indicating the presence/absence of individual open science terms.
+- **Term_Binary_with_individual_terms+Clusters.xlsx** – Contains the binary term-level data for individual open science terms and thematic clusters.
+- **Term_Frequencies_Normalized_&_Raw.xlsx** – Contains the raw and normalized term frequency data for individual open science terms.
+- **Crosstabulation_Analysis.xlsx** – Contains cross-tabulation analysis of binary term-level data for individual open science terms across organization types.
 
 **Note**
 Two additional columns have been added to these Excel files containing the following metadata: Country and Type of Organisation.
@@ -63,7 +64,7 @@ install.packages(c("pdftools", "stringr", "dplyr", "purrr"))
 
 ## Usage
 
-Unzip CoARA_Original_Action_Plans.zip and set the path of the unzipped folder as the value of the folder_path variable in the script.
+Set the path of the CoARA_Original_Action_Plans folder as the value of the folder_path variable in the script.
 
 Run the R script in R or RStudio.
 
