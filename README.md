@@ -9,7 +9,7 @@ It consists of four Excel data files in the 'Data_CoARA_Action_Plan_OS_Study' fo
 - **Term_Binary_individual_terms.xlsx** – Contains the binary term-level data indicating the presence/absence of individual open science terms.
 - **Term_Binary_with_individual_terms+Clusters.xlsx** – Contains the binary term-level data for individual open science terms and thematic clusters.
 - **Term_Frequencies_Normalized_&_Raw.xlsx** – Contains the raw and normalized term frequency data for individual open science terms.
-- **Crosstabulation_Analysis.xlsx** – Contains cross-tabulation analysis of binary term-level data for individual open science terms across organization types.
+- **Supplementary File_Crosstabulation_Analysis.xlsx** – Contains cross-tabulation analysis of binary term-level data for individual open science terms across organization types. Green markings indicate terms with a higher share within a given organization type (i.e., the terms most frequently mentioned in that category), while red indicates that the term is not mentioned (i.e., zero occurrences).
 
 **Note**
 Two additional columns have been added to these Excel files containing the following metadata: Country and Type of Organisation.
